@@ -2,9 +2,9 @@
 
 # Vue.js 入门
 
-> 作者：李鹏周
+> 作者：YSZ
 
-- 联系：lpzmail@163.com
+- 联系：y976776565@gmial.com
 
-[GitHub](https://github.com/lipengzhou/vuejs-tutorial)
+[GitHub](https://github.com/git-ysz)
 [Get Started](README)
